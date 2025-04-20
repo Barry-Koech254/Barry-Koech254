@@ -51,7 +51,7 @@
 <p align="center">
   <a href="https://twitter.com/BarryKoech254" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"></a>
   <a href="https://github.com/Barry-Koech254" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge"></a>
-  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
+  <a href="mailto:barrykoech254@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
 </p>
 
 ---
