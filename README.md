@@ -66,12 +66,14 @@ Hi there 👋 I'm **Koech Barnabas**, also known as **Barry Gre.en.nade** — a 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barry-Koech254&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=Barry-Koech254&label=Profile+Views&color=red&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Barry-Koech254&label=Profile+Views&color=red&style=flat" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barry-Koech254&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
 </p>
+
+
 
 ---
 
