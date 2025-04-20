@@ -32,7 +32,7 @@ Hi there 👋 I'm **Koech Barnabas**, also known as **Barry Gre.en.nade** — a 
 ### 🔥 Logo
 
 <p align="center">
-  <img src="https://your-image-link.com/logo.png" width="250px" alt="Barry Gre.en.nade Logo" />
+  <img src="BarryLogo.png" width="250px" alt="Barry Gre.en.nade Logo" />
 </p>
 
 ---
