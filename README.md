@@ -4,12 +4,16 @@
 <h1 align="center">Hi 👋, I'm Koech Barnabas</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%92%BB;Learning+Python+for+Backend+%F0%9F%94%A5;Lover+of+Clean+UI+%26+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;Building+Real-World+Projects+%F0%9F%9A%80;Python+%26+Flask+and+Django+for+Backend+%F0%9F%94%A5;Passionate+About+UI%2FUX+%26+Clean+Code;Turning+Ideas+into+Green+Solutions+%F0%9F%8C%B1" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
+
+<table>
+<tr>
+<td>
 
 Hi there 👋 I'm **Koech Barnabas**, also known as **Barry Gre.en.nade** — a passionate Software Engineer who blends code with creativity to build smart, elegant digital solutions.
 
@@ -27,13 +31,12 @@ Hi there 👋 I'm **Koech Barnabas**, also known as **Barry Gre.en.nade** — a 
 
 > “Exploding Ideas into Green Solutions.” 💥🌱
 
----
-
-### 🔥 Logo
-
-<p align="center">
+</td>
+<td>
   <img src="BarryLogo.png" width="250px" alt="Barry Gre.en.nade Logo" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
