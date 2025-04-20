@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-<img src="banner.png" alt="Banner" style="width:100%; border-radius:10px;" />
+<img src="banners.png" alt="Banner" style="width:100%; border-radius:10px;" />
 
 <h1 align="center">Hi 👋, I'm Koech Barnabas</h1>
 
