@@ -1,5 +1,7 @@
 <!-- Profile Banner -->
-<img src="banners.png" alt="Banner" style="width:100%; border-radius:10px;" />
+<p align="center">
+  <img src="banners.png" alt="Banner" style="width: 100%; height: 200px; object-fit: cover; border-radius: 10px;" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Koech Barnabas</h1>
 
@@ -17,13 +19,13 @@
 
 Hi there 👋 I'm **Koech Barnabas**, also known as **Barry Gre.en.nade** — a passionate Software Engineer who blends code with creativity to build smart, elegant digital solutions.
 
-🌿 Currently thriving in frontend development, I'm expanding into full-stack with Python and Flask on the backend. My coding style focuses on clarity, functionality, and aesthetics.
+🌿 Currently thriving in frontend development, I'm expanding into full-stack with Python, Flask, and Django. My coding style focuses on clarity, functionality, and aesthetics.
 
 💡 Whether it's crafting interactive UIs or solving real-world problems through automation and systems, I'm always chasing the next opportunity to **learn, create, and collaborate**.
 
 🛠️ Tools I use:
 - Languages: HTML, CSS, JavaScript, Python, SQL
-- Frameworks: Flask, Bootstrap
+- Frameworks: Flask, Django, Bootstrap
 - Tools: VS Code, Git, XAMPP, Linux Terminal
 
 🔍 Always curious. Forever building.  
@@ -32,8 +34,8 @@ Hi there 👋 I'm **Koech Barnabas**, also known as **Barry Gre.en.nade** — a 
 > “Exploding Ideas into Green Solutions.” 💥🌱
 
 </td>
-<td>
-  <img src="BarryLogo.png" width="250px" alt="Barry Gre.en.nade Logo" />
+<td align="center">
+  <img src="BarryLogo.png" width="300px" alt="Barry Gre.en.nade Logo" />
 </td>
 </tr>
 </table>
@@ -49,17 +51,26 @@ Hi there 👋 I'm **Koech Barnabas**, also known as **Barry Gre.en.nade** — a 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?logo=xampp&logoColor=white&style=for-the-badge)
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Barry-Koech254&show_icons=true&theme=radical" alt="Barry's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Barry-Koech254&show_icons=true&theme=radical" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Barry-Koech254&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barry-Koech254&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Barry-Koech254&label=Profile+Views&color=red&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -69,7 +80,7 @@ Hi there 👋 I'm **Koech Barnabas**, also known as **Barry Gre.en.nade** — a 
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🌱 Crop Recommender | AI-based crop suggestion system | Python, Flask, HTML |
-| 📲 Building & Construction  | Website | HTML, CSS, JS |
+| 📲 Building & Construction | Company website | HTML, CSS, JS |
 | 🔐 Cipher Analyzer | UI for Mono/Polyalphabetic ciphers | HTML, Flask, Python |
 
 ---
