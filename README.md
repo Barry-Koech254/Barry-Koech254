@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="banners.png" alt="Banner" style="width: 100%; height: 200px; object-fit: cover; border-radius: 10px;" />
+  <img src="banners.png" alt="Banner" style="width: 100%; height: 300px; object-fit: cover; border-radius: 10px;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Koech Barnabas</h1>
