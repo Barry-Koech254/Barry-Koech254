@@ -80,7 +80,7 @@ Hi there 👋 I'm **Koech Barnabas**, also known as **Barry Gre.en.nade** — a 
 ### 🔥 Résumé 
 
 <p align="center">
-  <img src="barry.png" width="250px" alt="Barry Gre.en.nade Logo" />
+  <img src="barry.png" width="350px" alt="Barry Gre.en.nade Logo" />
 </p>
 
 ---
