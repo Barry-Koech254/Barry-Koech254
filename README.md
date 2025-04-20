@@ -43,7 +43,7 @@ Hi there 👋 I'm **Koech Barnabas**, also known as **Barry Gre.en.nade** — a 
 
 </td>
 <td align="center">
-  <img src="BarryLogo.png" width="300px" alt="Barry Gre.en.nade Logo" />
+  <img src="BarryLogo.png" width="400px" alt="Barry Gre.en.nade Logo" />
 </td>
 </tr>
 </table>
