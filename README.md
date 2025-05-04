@@ -1,3 +1,9 @@
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+</p>
+
+
 <!-- Profile Banner -->
 <p align="center">
   <img src="banners.png" alt="Banner" style="width: 100%; height: 400px; object-fit: cover; border-radius: 10px;" />
@@ -16,12 +22,6 @@
 <p align="center">
   <img src="barry.png" width="450px" alt="Barry Gre.en.nade Logo" />
 </p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
-</p>
-
 
 ---
 
