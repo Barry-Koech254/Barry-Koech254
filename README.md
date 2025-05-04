@@ -1,7 +1,9 @@
-<!-- Footer -->
+<!-- Header (Inverted Wavy Side Down) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=twinkling"
+       style="transform: scaleY(-1);"/>
 </p>
+
 
 
 <!-- Profile Banner -->
