@@ -17,6 +17,12 @@
   <img src="barry.png" width="450px" alt="Barry Gre.en.nade Logo" />
 </p>
 
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+</p>
+
+
 ---
 
 ### 🧑‍💻 About Me
@@ -91,7 +97,7 @@ Hi there 👋 I'm **Koech Barnabas**, also known as **Barry Gre.en.nade** — a 
 |--------|-------------|------|
 | 🌱 Crop Recommender | AI-based crop suggestion system | Python, Flask, HTML |
 | 📲 Building & Construction | Company website | HTML, CSS, JS |
-| 🔐 Cipher Analyzer | UI for Mono/Polyalphabetic ciphers | HTML, Flask, Python |
+| 🔐 Cipher Analyzer | UI for Mono/Polyalphabetic ciphers | Flask, Python console|
 
 ---
 
